@@ -16,8 +16,8 @@
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.7</spring-cloud.version>
-		 <sonar.exclusions>**/com/codeddecode/foodcatalogue/dto/** , **/com/codeddecode/foodcatalogue/mapper/**,
-		 **/*/com/codeddecode/foodcatalogue/entity/**/*</sonar.exclusions>
+		 <sonar.exclusions>**/com/codedecode/foodcatalogue/dto/** , **/com/codedecode/foodcatalogue/mapper/**,
+		 **/*/com/codedecode/foodcatalogue/entity/**/*</sonar.exclusions>
 	</properties>
 	<dependencies>
 		<dependency>
